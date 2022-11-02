@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bem vindo!" />
         <p className="description">
-          <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(289781)</script> 
+           
         </p>
       </main>
 
@@ -21,3 +21,4 @@ export default function Home() {
     </div>
   )
 }
+<script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(289781)</script>
