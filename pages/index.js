@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bem vindo!" />
         <p className="description">
-          https://webbot.me/599aedc4babc6524cad7daa4fd95bf082bc43c7087f624d90c07ea1b99bdf2b6
+          <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(289781)</script> 
         </p>
       </main>
 
