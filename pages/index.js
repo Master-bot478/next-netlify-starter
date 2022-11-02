@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bem vindo!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          https://webbot.me/599aedc4babc6524cad7daa4fd95bf082bc43c7087f624d90c07ea1b99bdf2b6
         </p>
       </main>
 
